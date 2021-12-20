@@ -42,7 +42,7 @@ PivotTable data was filtered to only include data in the "theater" parent catego
 
 Data indicated that, across all years, the total number of successful theater projects peaked in May before steadily decreasing into September (Fig. 1). The number of failed theater projects increased slightly from May to August, but overall numbers were consistently lower than the number of successful projects. Canceled projects were consistently low across all months and less than both the successful and failed theater projects.
 
-![Fig 1. Theater Project Outcomes Based on Launch Date]("resources/Theater_Outcomes_vs_Launch.png")
+![Fig 1. Theater Project Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -52,7 +52,7 @@ Data was filtered to only include data in the "theater" parent category and "pla
 
 For projects less than 1000, 76% of projects succeeded and 24% failed (Fig. 2). However, as the viewer moves along the different project goal brackets detailed on the x-axis, there are several points where this trend inverts and inverts again. There were zero canceled projects within the "plays" subcategory.
 
-![Fig 2. Theater Project Outcomes Based on Goals]("resources/Outcomes_vs_Goals.png")
+![Fig 2. Theater Project Outcomes Based on Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
