@@ -8,7 +8,7 @@ The aim of this project is to provide a comprehensive analysis of Kickstarter da
 
 ## Analysis and Challenges
 
-Two separate analyses were conducted to acheive project goals: 1) an analysis of outcomes based on launch date and 2) an analysis of outcomes based on goals. Data on several thousand Kickstarter campaigns were retrieved and tabulated into a spreadsheet. 
+Two separate analyses were conducted to acheive project goals: 1) an analysis of outcomes based on launch date and 2) an analysis of outcomes based on goals. Data on several thousand Kickstarter campaigns were retrieved and tabulated into a spreadsheet. The data and various analyses can be found in the [Kickstarter Challenge Excel Book](https://github.com/InRegards2Pluto/kickstarter-analysis/blob/1b42995f6d38010abe2dc14472c4005c4f808206/Kickstarter_Challenge.xlsx).
 
 The following parameters were included in the initial spreadsheet:
 
